@@ -25,8 +25,8 @@
 ### Select Location
 <img src="images/onlinestore2.PNG" weight="100">
 
-### Login Page
+### confirm
 <img src="images/onlinestore3.PNG" weight="100">
 
-### Login Page
+### Total 
 <img src="images/onlinestore4.PNG" weight="100">
