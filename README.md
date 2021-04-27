@@ -1,5 +1,8 @@
 # laptopsOnlineStore
 
+## Pages
+-Home ,About store, contacts and cart
+
 ## Features
 - Add laptop you want to purchase to cart and alerts total amount as you add
 - Outlines location we deliver laptops their and amounts
@@ -16,14 +19,14 @@
 
 
 
-### Register Page
+### Home Page
 <img src="images/onlinestore.PNG" weight="100">
 
-### Login Page
+### Select Location
 <img src="images/onlinestore2.PNG" weight="100">
 
 ### Login Page
-<img src="images/onlinestore2.PNG" weight="100">
+<img src="images/onlinestore3.PNG" weight="100">
 
 ### Login Page
-<img src="images/onlinestore2.PNG" weight="100">
+<img src="images/onlinestore4.PNG" weight="100">
